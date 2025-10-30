@@ -1,1 +1,1 @@
-# oauth2-onelogin
+# OAuth2 client for OneLogin
