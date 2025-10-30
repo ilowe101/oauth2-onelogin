@@ -1,0 +1,14 @@
+{
+    "name": "ilowe/oauth2-onelogin",
+    "description": "OAuth2 client for OneLogin",
+    "type": "library",
+    "require": {
+        "php": "^7.3 || ^8.0",
+        "league/oauth2-client": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ilowe\\OAuth2\\Client\\": "src/"
+        }
+    }
+}
